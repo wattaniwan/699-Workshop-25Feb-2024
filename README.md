@@ -5,7 +5,9 @@
 
 ### 2. Respond to the Google Form with at least 10 responses.
 
-### 3. Add the Column "Sentiments" in to the response sheet.
+### 3. Find the sentiments of comments 
+
+Add the Column "Sentiments" in to the response sheet.
 
 Add a new sheet to track the number of responses and the number of assigned sentiments.
 
