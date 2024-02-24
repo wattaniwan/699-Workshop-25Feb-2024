@@ -9,7 +9,7 @@
 
 Add a new sheet to track the number of responses and the number of assigned sentiments.
 
-Create File ass7-sentiment-xxx.ipynb via Google Colab 
+Create File **ass7-sentiment-xxx.ipynb** via Google Colab 
 
 Modify the following example code for your work.
 
